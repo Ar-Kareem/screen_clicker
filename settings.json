@@ -1,9 +1,9 @@
 {
     "programs": {
         "image_clicker": {
-            "type": "image_clickerZ",
+            "type": "image_clicker",
             "img_fldr": "./imgs/",
-            "sleep_time": 5,
+            "sleep_time": 7,
             "confidence": 0.9,
             "end": null
         },
