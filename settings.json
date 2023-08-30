@@ -15,10 +15,6 @@
                 {"type": "click", "kwargs": {"x": 200, "y": 400}},
                 {"type": "sleep", "args": [0.1]},
                 {"type": "press", "args": ["down"]},
-                {"type": "sleep", "args": [0.1]},
-                {"type": "press", "args": ["down"]},
-                {"type": "sleep", "args": [0.1]},
-                {"type": "press", "args": ["down"]},
                 {"type": "sleep", "args": [0.1]}
             ]
         }
